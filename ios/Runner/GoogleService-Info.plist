@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>607528818092-hka9spgmtn9om923esqk1iu9vn8sr8ti.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.607528818092-hka9spgmtn9om923esqk1iu9vn8sr8ti</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCZYjthdHTUbo08NuYKIXSaqKZPrG_tIXc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>607528818092</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.gomokuOnlineApp</string>
+	<key>PROJECT_ID</key>
+	<string>gomokuonline-1c33d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gomokuonline-1c33d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:607528818092:ios:e8e9247b166a802da6d609</string>
+	<key>DATABASE_URL</key>
+	<string>https://gomokuonline-1c33d-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
